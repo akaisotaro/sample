@@ -1,1 +1,1 @@
-
+Settings -> Pages -> Visit
